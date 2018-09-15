@@ -1,7 +1,4 @@
-# Doc
-## video 
-
-Address: http://v.youku.com/v_show/id_XMzYxMjY0NjQwOA==.html?spm=a2h3j.8428770.3416059.1
+# NetWorkPacketCapture
 
 ## Function:
 * It shows the state of Network Connection which is established by your selected client.
@@ -80,20 +77,4 @@ You can see the history data.
 选择相应的历史记录的链路，并查看历史抓包内容。
 
 ![Image](https://github.com/huolizhuminh/NetWorkPacketCapture/blob/master/images/抓包精灵2.png)
-
-
-
-## 更多
-* 技术方案：https://www.jianshu.com/p/ae4d433597ce
-* Email: sysuzhuminh@gmail.com
-
-* 包下载地址 ： https://play.google.com/store/apps/details?id=com.minhui.networkcapture.pro
-
-* 此项目将在star达到1000时开放htts部分的代码。
-
-
-
-
-
-
 
